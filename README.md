@@ -8,7 +8,7 @@ Hi there 👋!
 #### What am I doing?
 
 - Writing `PHP`, `Laravel`, `Node.js`, `JavaScript`, `TypeScript`, `Go` and `Python`.
-- Working at [Eurecat - Technology Research Center](https://eurecat.org/) as a Junior Fullstack Software Engineer.
+- Working at [Eurecat - Technology Research Center](https://eurecat.org/) as a Junior Fullstack Software Engineer and Data Scientist.
 
 #### What are my skill sets?
 
