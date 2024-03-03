@@ -5,7 +5,7 @@ Hi there 👋!
 - A Computer Engineering student at Universitat Autònoma de Barcelona, based in **[Barcelona](https://en.wikipedia.org/wiki/Barcelona), [Catalonia](https://en.wikipedia.org/wiki/Catalonia)**.
 - See my portfolio at **[noopeeks.github.io](noopeeks.github.io)**.
 
-#### What I'm doing?
+#### What am I doing?
 
 - Writing `PHP`, `Laravel`, `Node.js`, `JavaScript`, `TypeScript`, `Go` and `Python`.
 - Working at [Eurecat - Technology Research Center](https://eurecat.org/) as a Junior Fullstack Software Engineer.
@@ -22,7 +22,7 @@ Hi there 👋!
 - 🖥 **Frontend (_I'm better at backend_):**
 
   - **Programming:** `JavaScript`
-  - **Framework/Library:** `React.js` • `Vue.js` • `HTMX (learning)`
+  - **Framework/Library:** `Vue.js` • `React.js` • `HTMX (learning)`
   - **Utils:** `TailwindCSS`
 
 - 🎡 **Ecosystem:**
