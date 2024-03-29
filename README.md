@@ -7,27 +7,28 @@ Hi there 👋!
 
 #### What am I doing?
 
-- Writing `PHP`, `Laravel`, `Node.js`, `JavaScript`, `TypeScript`, `Go` and `Python`.
-- Working at [Eurecat - Technology Research Center](https://eurecat.org/) as a Junior Fullstack Software Engineer and Data Scientist.
+- Writing `PHP`, `Laravel`, `TypeScript`, `JavaScript`, `Node.js`, `Go` and `Python`.
+- Currently working at [Eurecat - Technology Research Center](https://eurecat.org/) as a Junior Fullstack Software Engineer and Data Scientist.
 
 #### What are my skill sets?
 
 - 🗄️ **Backend:**
 
-  - **Programming:** `PHP` • `Node.js` • `JavaScript` • `Python` • `Go`
-  - **Framework:** `Laravel` • `Express.js` • `Django` • `Echo`
+  - **Languages:** `PHP` • `JavaScript` • `TypeScript` • `Python` • `Go`
+  - **Frameworks:** `Laravel` • `Node.js` • `Express.js` • `Django` • `Echo`
   - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
-  - **Protocol:** `REST`
+  - **Testing:** `PestPHP` • `Mocha.js` • `Selenium`
+  - **Architectures:** `REST`
 
 - 🖥 **Frontend (_I'm better at backend_):**
 
-  - **Programming:** `JavaScript`
-  - **Framework/Library:** `Vue.js` • `React.js` • `HTMX (learning)`
+  - **Languages:** `JavaScript` • `HTML` • `CSS`
+  - **Framework/Libraries:** `Vue.js` • `React.js` • `HTMX (learning)`
   - **Utils:** `TailwindCSS`
 
 - 🎡 **Ecosystem:**
 
-  - **Containerization:** `Docker` • `Docker-Compose`
+  - **Containerization:** `Docker` • `Docker-Compose` • `Vagrant`
   - **Version Control:** `Git` • `GitHub`
   - **Project Management:** `Jira` • `Trello`
 
