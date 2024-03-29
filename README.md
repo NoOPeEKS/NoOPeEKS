@@ -22,7 +22,7 @@ Hi there 👋!
 
 - 🖥 **Frontend (_I'm better at backend_):**
 
-  - **Languages:** `JavaScript` • `HTML` • `CSS`
+  - **Languages:** `JavaScript` • `TypeScript` • `HTML` • `CSS`
   - **Framework/Libraries:** `Vue.js` • `React.js` • `HTMX (learning)`
   - **Utils:** `TailwindCSS`
 
