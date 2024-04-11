@@ -17,7 +17,7 @@ Hi there 👋!
   - **Languages:** `PHP` • `JavaScript` • `TypeScript` • `Python` • `Go`
   - **Frameworks:** `Laravel` • `Node.js` • `Express.js` • `Django` • `Echo`
   - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
-  - **Testing:** `PestPHP` • `Mocha.js` • `Selenium`
+  - **Testing:** `PestPHP` • `Mocha.js` • `Vitest` • `Selenium`
   - **Architectures:** `REST`
 
 - 🖥 **Frontend (_I'm better at backend_):**
