@@ -28,7 +28,8 @@ Hi there 👋!
 
 - 🎡 **Ecosystem:**
 
-  - **Containerization:** `Docker` • `Docker-Compose` • `Vagrant`
+  - **Containerization:** `Docker` • `Vagrant`
+  - **Orchestration** `Docker Swarm`
   - **Version Control:** `Git` • `GitHub`
   - **Project Management:** `Jira` • `Trello`
 
