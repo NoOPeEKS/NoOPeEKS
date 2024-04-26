@@ -3,7 +3,7 @@ Hi there 👋!
 #### Who am I?
 
 - A Computer Engineering student at Universitat Autònoma de Barcelona, based in **[Barcelona](https://en.wikipedia.org/wiki/Barcelona), [Catalonia](https://en.wikipedia.org/wiki/Catalonia)**.
-- See my portfolio at **[noopeeks.github.io](noopeeks.github.io)**.
+- See my portfolio at **[noopeeks.github.io](https://noopeeks.github.io)**.
 
 #### What am I doing?
 
