@@ -8,7 +8,7 @@ Hi there 👋!
 
 #### What am I doing?
 
-- Writing `Python`, `PHP`, `Laravel`, `TypeScript`, `JavaScript`, `Node.js`, and `Go`.
+- Writing `Python`, `PHP`, `Ruby`, `TypeScript`, `JavaScript`, `Node.js`, and `Go`.
 - Now learning Functional Programming with `Elixir`.
 - Currently working at [Eurecat - Technology Research Center](https://eurecat.org/) as a Software and Machine Learning Engineer.
 
@@ -21,12 +21,12 @@ Hi there 👋!
     - **Plotting:** `Matplotlib` • `Seaborn`
     - **Classical ML:** `Sklearn`
     - **Deep learning:** `Keras` • `PyTorch`
-    - **Prototyping:** `Flask` • `Streamlit`
+    - **Prototyping:** `Flask` • `Streamlit` • `FastAPI`
 
 - 🗄️ **Backend:**
 
-  - **Languages:** `PHP` • `JavaScript` • `TypeScript` • `Python` • `Go`
-  - **Frameworks:** `Laravel` • `Node.js` • `Express.js` • `Django` • `Flask` • `Echo` 
+  - **Languages:** `PHP` • `JavaScript` • `TypeScript` • `Python` • `Go` • `Ruby`
+  - **Frameworks:** `Laravel` • `Node.js` • `Express.js` • `Django` • `Flask` • `Echo` • `Rails`
   - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
   - **Testing:** `PestPHP` • `Mocha.js` • `Vitest` • `Selenium`
   - **Architectures:** `REST`
@@ -34,7 +34,7 @@ Hi there 👋!
 - 🖥 **Frontend (_I'm better at backend_):**
 
   - **Languages:** `JavaScript` • `TypeScript` • `HTML` • `CSS`
-  - **Framework/Libraries:** `Vue.js` • `React.js` • `HTMX (learning)`
+  - **Framework/Libraries:** `Vue.js` • `React.js` • `AlpineJS` • `Stimulus.js`
   - **Utils:** `TailwindCSS`
 
 - 🎡 **Ecosystem:**
