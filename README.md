@@ -9,7 +9,7 @@ Hi there 👋!
 #### What am I doing?
 
 - Writing `Python`, `PHP`, `Ruby`, `TypeScript`, `JavaScript`, `Node.js`, and `Go`.
-- Now learning Functional Programming with `Elixir`.
+- Now learning Functional Programming with `Gleam` and `Elixir`.
 - Currently working at [Eurecat - Technology Research Center](https://eurecat.org/) as a Software and Machine Learning Engineer.
 
 #### What are my skill sets?
@@ -25,10 +25,10 @@ Hi there 👋!
 
 - 🗄️ **Backend:**
 
-  - **Languages:** `PHP` • `JavaScript` • `TypeScript` • `Python` • `Go` • `Ruby`
-  - **Frameworks:** `Laravel` • `Node.js` • `Express.js` • `Django` • `Flask` • `Echo` • `Rails`
+  - **Languages:** `PHP` • `TypeScript` • `Python` • `Go` • `Ruby`
+  - **Frameworks:** `Laravel` • `Express.js` • `FastAPI` • `Flask` • `Chi` • `Rails`
   - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
-  - **Testing:** `PestPHP` • `Mocha.js` • `Vitest` • `Selenium`
+  - **Testing:** `PestPHP` • `Pytest` • `Vitest`
   - **Architectures:** `REST`
 
 - 🖥 **Frontend (_I'm better at backend_):**
