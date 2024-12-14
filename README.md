@@ -9,7 +9,7 @@ Hi there 👋!
 #### What am I doing?
 
 - Writing `Python`, `PHP`, `Ruby`, `TypeScript`, `JavaScript`, `Node.js`, and `Go`.
-- Now learning Functional Programming with `Gleam` and `Elixir`.
+- Now learning `Rust`.
 - Currently working at [Eurecat - Technology Research Center](https://eurecat.org/) as a Software and Machine Learning Engineer.
 
 #### What are my skill sets?
@@ -41,7 +41,8 @@ Hi there 👋!
 
   - **Containerization:** `Docker` • `Vagrant`
   - **Orchestration** `Docker Swarm`
-  - **Version Control:** `Git` • `GitHub`
+  - **Version Control:** `Git` • `GitHub` • `GitLab`
+  - **CI/CD**: `GitHub Actions` • `GitLab Workflows`
   - **Project Management:** `Jira` • `Trello`
 
 #### How to reach me?
