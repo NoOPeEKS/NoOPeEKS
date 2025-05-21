@@ -2,7 +2,7 @@ Hi there 👋!
 
 #### Who am I?
 
-- A Computer Engineering student at Universitat Autònoma de Barcelona, based in **[Barcelona](https://en.wikipedia.org/wiki/Barcelona), [Catalonia](https://en.wikipedia.org/wiki/Catalonia)**.
+- A Computer Engineer, based in **[Barcelona](https://en.wikipedia.org/wiki/Barcelona), [Catalonia](https://en.wikipedia.org/wiki/Catalonia)**.
 - Creator and maintainer of [DataNvim](https://github.com/NoOPeEKS/DataNvim), a free and open-source distribution of Neovim crafted specifically for Data Science.
 
 #### What am I doing?
