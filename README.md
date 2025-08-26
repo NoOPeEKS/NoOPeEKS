@@ -7,8 +7,8 @@ Hi there 👋!
 
 #### What am I doing?
 
-- Writing `Python`, `PHP`, `Ruby`, `TypeScript`, and `Go`.
-- Now learning `Rust`.
+- Writing `Python`, `PHP`, `Rust`, `TypeScript`, and `Go`.
+- Now learning `Gleam`.
 - Currently working at [Eurecat - Technology Research Center](https://eurecat.org/) as a Software and Machine Learning Engineer.
 
 #### What are my skill sets?
